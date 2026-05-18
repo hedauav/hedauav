@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- 3D Developer Bitmoji / Avatar GIF -->
+<!-- 3D Developer Bitmoji -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120px" />
 
 <br/>
 
-<!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anish+Hedau+%F0%9F%91%8B;Software+Developer+%7C+AI+Builder;International+Hackathon+Winner+%F0%9F%8F%86;Building+What+Matters+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
@@ -21,16 +20,23 @@
 
 ## 🧠 About Me
 
-```ts
-const anish = {
-  role:       "Software Developer Intern @ Orla3",
-  education:  "B.Tech CSE (Data Science) — RCOEM Nagpur",
-  focus:      ["AI Agents", "Full-Stack Systems", "Web3 Infrastructure", "DevOps"],
-  achievements: ["🥈 2nd — Loops Hacker House, Shanghai", "🥇 1st — Filecoin Hackathon", "🏅 9th — SatHack (500+ teams)"],
-  currentlyBuilding: "Real-time AI voice workflows & decentralized storage tools",
-  funFact:    "I turn hackathon ideas → production products in days 🚀"
-};
-```
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280px"/>
+
+🎓 **B.Tech CSE (Data Science)** @ RCOEM Nagpur
+
+💼 **Software Developer Intern** @ [Orla3](https://orla3.com)
+
+🌏 **International Hackathon Finalist & Winner** — Shanghai, Filecoin
+
+🤖 Building **AI Agents**, real-time voice systems & Web3 infra
+
+⚡ Reduced production latency **1200ms → 200ms** at Orla3
+
+🚀 I ship hackathon ideas into **production products** within days
+
+🎯 Open to **SWE / AI roles** from 2026
+
+<br clear="right"/>
 
 ---
 
@@ -133,19 +139,6 @@ Next.js · TypeScript · REST APIs
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hedauav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedauav&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9900&currStreakLabel=58A6FF" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedauav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="130"/>
 </div>
 
 ---
