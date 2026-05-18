@@ -1,36 +1,46 @@
-# 👨‍💻 Anish Hedau
+<h1 align="center">Hi 👋, I'm Anish Hedau</h1>
 
-### Software Developer • AI Builder • Open Source Contributor
+<h3 align="center">
+Software Developer • AI Builder • Open Source Contributor
+</h3>
 
-Hi there 👋
+<p align="center">
+Building AI-powered applications, scalable full-stack systems, and developer infrastructure.
+</p>
 
-I'm Anish Hedau, a Software Developer focused on building AI-powered applications, scalable full-stack systems, and developer infrastructure.
-
-Currently:
-
-* 🚀 Software Developer Intern at Orla3
-* 🎓 B.Tech CSE (Data Science) student at RCOEM Nagpur
-* 🌏 International Hackathon Finalist
-* 🛠 Building AI agents, real-time systems, and Web3 infrastructure
-
-I enjoy solving real-world problems through engineering, hackathons, open source, and fast product iteration.
+<p align="center">
+  <a href="https://github.com/hedauav">
+    <img src="https://komarev.com/ghpvc/?username=hedauav&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-# &#x20;
+## 🚀 About Me
+
+* 🚀 Software Developer Intern at **Orla3**
+* 🎓 B.Tech CSE (Data Science) at **RCOEM Nagpur**
+* 🌏 International Hackathon Winner & Finalist
+* 🤖 Building AI agents, real-time systems, and Web3 infrastructure
+* ⚡ Passionate about AI, backend engineering, DevOps, and scalable products
+
+---
 
 # 🏆 Achievements
 
-🥈 **2nd Position — Loops Hacker House, Shanghai**
-Built SafeGuard, an AI-powered insurance claims call agent with real-time voice workflows, analytics, and automated claim support systems.
+### 🥈 2nd Position — Loops Hacker House, Shanghai
 
-🥇 **1st Position — Filecoin Hackathon**
-Built scalable decentralized storage infrastructure and full-stack solutions using Web3 technologies.
+Built **SafeGuard**, an AI-powered insurance claims call agent with real-time voice workflows, analytics, and automated support systems.
 
-🏅 **9th Position — SatHack National Hackathon**
-Ranked among top teams out of 500+ participants at Thapar Institute.
+### 🥇 1st Position — Filecoin Hackathon
 
-  
+Built scalable decentralized storage infrastructure and full-stack Web3 solutions.
+
+### 🏅 9th Position — SatHack National Hackathon
+
+Ranked among the top teams out of **500+ participants** at Thapar Institute.
+
+### 💻 Open Source Contributor — GirlScript Summer of Code (GSSoC)
 
 ---
 
@@ -48,12 +58,6 @@ Ranked among top teams out of 500+ participants at Thapar Institute.
 
 🔗 https://orla3.com/
 
- 
-
-💻 **Open Source Contributor — GirlScript Summer of Code (GSSoC)**
-
-  
-
 ---
 
 # 🚀 Featured Projects
@@ -62,11 +66,11 @@ Ranked among top teams out of 500+ participants at Thapar Institute.
 
 AI-powered insurance support platform using voice agents and real-time analytics.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
-TypeScript • Fastify • Supabase • PostgreSQL • ElevenLabs • Twilio • React
+`TypeScript` `Fastify` `Supabase` `PostgreSQL` `ElevenLabs` `Twilio` `React`
 
-### Features
+### ✨ Features
 
 * AI voice workflows for automated claims support
 * Real-time dashboard infrastructure
@@ -80,11 +84,11 @@ TypeScript • Fastify • Supabase • PostgreSQL • ElevenLabs • Twilio •
 
 Trustless decentralized storage infrastructure for autonomous AI agents.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
-JavaScript • IPFS • Filecoin • Web3 Storage • CLI
+`JavaScript` `IPFS` `Filecoin` `Web3` `CLI`
 
-### Features
+### ✨ Features
 
 * Decentralized file storage
 * Autonomous payment workflows
@@ -97,11 +101,11 @@ JavaScript • IPFS • Filecoin • Web3 Storage • CLI
 
 Real-time weather analytics and DeFi mutual aid platform.
 
-### Tech Stack
+### ⚙️ Tech Stack
 
-Next.js • TypeScript • REST APIs
+`Next.js` `TypeScript` `REST APIs`
 
-### Features
+### ✨ Features
 
 * Live meteorological analytics
 * Interactive dashboards
@@ -112,38 +116,55 @@ Next.js • TypeScript • REST APIs
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-C++ • JavaScript • TypeScript • SQL • HTML5 • CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,sql" />
+</p>
 
-## Frontend
+### Frontend & Backend
 
-React • Next.js • Responsive Design • Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,tailwind" />
+</p>
 
-## Backend & Databases
+### Tools & Platforms
 
-Node.js • Fastify • Firebase • Supabase • PostgreSQL • REST APIs
-
-## Tools & CS Fundamentals
-
-Git • GitHub • DSA • System Design • BMAD • Speckit
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postgres,docker,vscode" />
+</p>
 
 ---
 
 # 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hedauav&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedauav&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedauav&theme=tokyo-night" />
+</p>
+
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: [hedauanish@gmail.com](mailto:hedauanish@gmail.com)
+<p align="left">
+<a href="https://github.com/hedauav" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
 
-🐙 GitHub: https://github.com/hedauav
+📧 **Email:** [hedauanish@gmail.com](mailto:hedauanish@gmail.com)
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building production-ready systems during hackathons and turning ideas into deployable products within days.
+I enjoy turning hackathon ideas into production-ready products within days 🚀
